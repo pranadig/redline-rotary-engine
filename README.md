@@ -12,6 +12,26 @@ The project involved studying the engine's operating principles, decomposing its
 
 The design was based on a scaled version of Mazda's 13B rotary engine architecture, with particular attention to component geometry, gear relationships, material selection, tolerances, stress concentrations, fatigue, and bearing lubrication.
 
+
+## Project Visuals
+
+### Engine Design and Assembly
+
+![Engine Component Overview](figures/01-engine-component-overview.png)
+
+![Engine Assembly for Prototyping](figures/06-engine-assembly-for-prototyping.png)
+
+### CAD Drawings and Tolerances
+
+![Engineering Drawings and Tolerances](figures/02-engineering-drawings-and-tolerances.png)
+
+### Finite Element Analysis (FEA)
+
+![Rotor FEA](figures/03-rotor-fea.png)
+
+![Eccentric Shaft FEA and Fatigue Analysis](figures/04-eccentric-shaft-fea-and-fatigue.png)
+
+![Internal Gear FEA](figures/05-internal-gear-fea.png)
 ## Project Objectives
 
 - Understand the operating principles and kinematics of a Wankel rotary engine.
